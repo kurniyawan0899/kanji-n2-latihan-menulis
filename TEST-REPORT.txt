@@ -1,0 +1,21 @@
+Kanji N2 Latihan Menulis v1.1 — pemeriksaan statis
+
+Jumlah kosakata: 3429
+Day 1–34: masing-masing 100
+Day 35: 29
+ID unik: 3429
+Database identik byte-per-byte dengan data.js dari arsip KUIS-N2-FLIP-SWIPE-FIXED: YA
+
+Pemeriksaan kode:
+- undo handler: LULUS
+- redo handler: LULUS
+- clear handler: LULUS
+- previous/next handlers: LULUS
+- swipe handling: LULUS
+- IndexedDB storage: LULUS
+- separate storage namespace: LULUS
+- day progress UI: LULUS
+- cache cleanup scoped to own prefix: LULUS
+- service worker does not delete unrelated caches: LULUS
+
+Catatan: pengujian browser interaktif belum dapat dijalankan di lingkungan ini; uji sentuhan iPhone dan siklus buka-tutup tetap diperlukan.
